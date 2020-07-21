@@ -92,4 +92,4 @@ def run(my_songs)
   exit_jukebox()
 end
 
-run(songs)
+
